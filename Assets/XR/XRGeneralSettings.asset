@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: Metro Settings
   m_EditorClassIdentifier: 
   m_LoaderManagerInstance: {fileID: -2153226120145483689}
-  m_InitManagerOnStart: 1
+  m_InitManagerOnStart: 0
+  m_XRManager: {fileID: 0}
+  m_ProviderIntialized: 0
+  m_ProviderStarted: 0
 --- !u!114 &-8759228002776004846
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27,7 +30,10 @@ MonoBehaviour:
   m_Name: Standalone Settings
   m_EditorClassIdentifier: 
   m_LoaderManagerInstance: {fileID: -684971534346331929}
-  m_InitManagerOnStart: 1
+  m_InitManagerOnStart: 0
+  m_XRManager: {fileID: -684971534346331929}
+  m_ProviderIntialized: 1
+  m_ProviderStarted: 1
 --- !u!114 &-8164669739320478309
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42,6 +48,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LoaderManagerInstance: {fileID: 4969837219718059056}
   m_InitManagerOnStart: 1
+  m_XRManager: {fileID: 0}
+  m_ProviderIntialized: 0
+  m_ProviderStarted: 0
 --- !u!114 &-5301987669730060863
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54,6 +63,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4c3631f5e58749a59194e0cf6baf6d5, type: 3}
   m_Name: Lumin Providers
   m_EditorClassIdentifier: 
+  m_InitializationComplete: 0
   m_RequiresSettingsUpdate: 0
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
@@ -72,6 +82,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LoaderManagerInstance: {fileID: -5301987669730060863}
   m_InitManagerOnStart: 1
+  m_XRManager: {fileID: 0}
+  m_ProviderIntialized: 0
+  m_ProviderStarted: 0
 --- !u!114 &-2153226120145483689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -84,11 +97,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4c3631f5e58749a59194e0cf6baf6d5, type: 3}
   m_Name: Metro Providers
   m_EditorClassIdentifier: 
+  m_InitializationComplete: 0
   m_RequiresSettingsUpdate: 0
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
-  m_Loaders:
-  - {fileID: 11400000, guid: fcd1bc19b67d5f741a1d5a2764ccc134, type: 2}
+  m_Loaders: []
 --- !u!114 &-1922032886555544504
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -101,6 +114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4c3631f5e58749a59194e0cf6baf6d5, type: 3}
   m_Name: tvOS Providers
   m_EditorClassIdentifier: 
+  m_InitializationComplete: 0
   m_RequiresSettingsUpdate: 0
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
@@ -117,6 +131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4c3631f5e58749a59194e0cf6baf6d5, type: 3}
   m_Name: Android Providers
   m_EditorClassIdentifier: 
+  m_InitializationComplete: 0
   m_RequiresSettingsUpdate: 0
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
@@ -133,11 +148,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4c3631f5e58749a59194e0cf6baf6d5, type: 3}
   m_Name: Standalone Providers
   m_EditorClassIdentifier: 
+  m_InitializationComplete: 0
   m_RequiresSettingsUpdate: 0
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
-  m_Loaders:
-  - {fileID: 11400000, guid: fcd1bc19b67d5f741a1d5a2764ccc134, type: 2}
+  m_Loaders: []
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -171,6 +186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4c3631f5e58749a59194e0cf6baf6d5, type: 3}
   m_Name: iPhone Providers
   m_EditorClassIdentifier: 
+  m_InitializationComplete: 0
   m_RequiresSettingsUpdate: 0
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
@@ -189,6 +205,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LoaderManagerInstance: {fileID: 6223507385671039446}
   m_InitManagerOnStart: 1
+  m_XRManager: {fileID: 0}
+  m_ProviderIntialized: 0
+  m_ProviderStarted: 0
 --- !u!114 &5973232010364511989
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -203,6 +222,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LoaderManagerInstance: {fileID: -1922032886555544504}
   m_InitManagerOnStart: 1
+  m_XRManager: {fileID: 0}
+  m_ProviderIntialized: 0
+  m_ProviderStarted: 0
 --- !u!114 &6223507385671039446
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -215,6 +237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4c3631f5e58749a59194e0cf6baf6d5, type: 3}
   m_Name: WebGL Providers
   m_EditorClassIdentifier: 
+  m_InitializationComplete: 0
   m_RequiresSettingsUpdate: 0
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
@@ -233,3 +256,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LoaderManagerInstance: {fileID: -820027302591520608}
   m_InitManagerOnStart: 1
+  m_XRManager: {fileID: 0}
+  m_ProviderIntialized: 0
+  m_ProviderStarted: 0
