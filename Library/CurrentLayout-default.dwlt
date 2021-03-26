@@ -16,9 +16,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 43.2
     width: 1536
     height: 790.4
+=======
+    y: 42.666668
+    width: 2560
+    height: 1366.6667
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     y: 42.666668
     width: 2560
@@ -46,6 +52,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 295
     y: 0
     width: 560
@@ -60,10 +67,17 @@ MonoBehaviour:
 =======
     x: 0
     y: 0
+=======
+    x: 0
+    y: 0
+>>>>>>> parent of 9abc240 (Added post processing)
     width: 100
     height: 100
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
+<<<<<<< HEAD
+>>>>>>> parent of 9abc240 (Added post processing)
+=======
 >>>>>>> parent of 9abc240 (Added post processing)
 --- !u!114 &3
 MonoBehaviour:
@@ -85,12 +99,21 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1536
     height: 741
   m_MinSize: {x: 880, y: 342}
   m_MaxSize: {x: 16005, y: 8042}
   vertical: 0
   controlID: 36
+=======
+    width: 2560
+    height: 1317
+  m_MinSize: {x: 677, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
+  vertical: 0
+  controlID: 58
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     width: 2560
     height: 1317
@@ -115,6 +138,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1202
     y: 0
     width: 334
@@ -124,6 +148,10 @@ MonoBehaviour:
 =======
     x: 2042
     y: 0
+=======
+    x: 2042
+    y: 0
+>>>>>>> parent of 9abc240 (Added post processing)
     width: 518
     height: 1317
   m_MinSize: {x: 275, y: 50}
@@ -152,8 +180,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 295
     height: 416
+=======
+    width: 505
+    height: 797
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     width: 505
     height: 797
@@ -182,6 +215,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 416
     width: 1202
     height: 325
@@ -189,6 +223,8 @@ MonoBehaviour:
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 19}
 =======
+=======
+>>>>>>> parent of 9abc240 (Added post processing)
     y: 797
     width: 2042
     height: 520
@@ -222,8 +258,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1536
     height: 791
+=======
+    width: 2560
+    height: 1367
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     width: 2560
     height: 1367
@@ -248,7 +289,11 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1536
+=======
+    width: 2560
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     width: 2560
 >>>>>>> parent of 9abc240 (Added post processing)
@@ -273,8 +318,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 771
     width: 1536
+=======
+    y: 1347
+    width: 2560
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     y: 1347
     width: 2560
@@ -302,12 +352,21 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1202
     height: 741
   m_MinSize: {x: 604, y: 342}
   m_MaxSize: {x: 12004, y: 8042}
   vertical: 1
   controlID: 37
+=======
+    width: 2042
+    height: 1317
+  m_MinSize: {x: 402, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
+  vertical: 1
+  controlID: 102
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     width: 2042
     height: 1317
@@ -336,6 +395,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1202
     height: 416
   m_MinSize: {x: 604, y: 221}
@@ -343,12 +403,17 @@ MonoBehaviour:
   vertical: 0
   controlID: 105
 =======
+=======
+>>>>>>> parent of 9abc240 (Added post processing)
     width: 2042
     height: 797
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
   controlID: 103
+<<<<<<< HEAD
+>>>>>>> parent of 9abc240 (Added post processing)
+=======
 >>>>>>> parent of 9abc240 (Added post processing)
 --- !u!114 &12
 MonoBehaviour:
@@ -366,10 +431,17 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 855
     y: 0
     width: 347
     height: 416
+=======
+    x: 505
+    y: 0
+    width: 1537
+    height: 797
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     x: 505
     y: 0
@@ -407,15 +479,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1427.3334
     y: 72.66667
     width: 576
     height: 718
 =======
+=======
+>>>>>>> parent of 9abc240 (Added post processing)
     x: 505.33334
     y: 72.66667
     width: 1535
     height: 776
+<<<<<<< HEAD
+>>>>>>> parent of 9abc240 (Added post processing)
+=======
 >>>>>>> parent of 9abc240 (Added post processing)
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &14
@@ -441,9 +519,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 489.6
     width: 1201
     height: 304
+=======
+    y: 870
+    width: 2041
+    height: 499
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     y: 870
     width: 2041
@@ -464,17 +548,23 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/XR
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/XR
 =======
+=======
+>>>>>>> parent of 9abc240 (Added post processing)
     - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/Scenes
+<<<<<<< HEAD
+>>>>>>> parent of 9abc240 (Added post processing)
+=======
 >>>>>>> parent of 9abc240 (Added post processing)
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\MW253008\OneDrive - Falmouth University\Falmouth\Experiments\NiteKrub
@@ -483,9 +573,15 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 64390000
     m_LastClickedID: 14692
     m_ExpandedIDs: 00000000283900002e39000030390000323900003439000036390000383900003a3900003c3900006039000064390000663900006839000000ca9a3b
+=======
+    m_SelectedIDs: b6350000
+    m_LastClickedID: 13750
+    m_ExpandedIDs: 00000000a2350000c0360000d0360000f2360000fa36000000ca9a3b
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     m_SelectedIDs: b6350000
     m_LastClickedID: 13750
@@ -519,7 +615,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000283900002a3900002c3900002e39000030390000323900003439000036390000383900003a3900003c390000
+=======
+    m_ExpandedIDs: 00000000a2350000
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     m_ExpandedIDs: 00000000a2350000
 >>>>>>> parent of 9abc240 (Added post processing)
@@ -555,6 +655,9 @@ MonoBehaviour:
 =======
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000983d0000
+<<<<<<< HEAD
+>>>>>>> parent of 9abc240 (Added post processing)
+=======
 >>>>>>> parent of 9abc240 (Added post processing)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -605,15 +708,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1202.4
     y: 73.6
     width: 333
     height: 720
 =======
+=======
+>>>>>>> parent of 9abc240 (Added post processing)
     x: 2042
     y: 72.66667
     width: 517
     height: 1296
+<<<<<<< HEAD
+>>>>>>> parent of 9abc240 (Added post processing)
+=======
 >>>>>>> parent of 9abc240 (Added post processing)
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
@@ -628,7 +737,11 @@ MonoBehaviour:
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastVerticalScrollValue: 326
+=======
+  m_LastVerticalScrollValue: 0
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
   m_LastVerticalScrollValue: 0
 >>>>>>> parent of 9abc240 (Added post processing)
@@ -655,9 +768,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 73.6
     width: 294
     height: 395
+=======
+    y: 72.66667
+    width: 504
+    height: 776
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     y: 72.66667
     width: 504
@@ -668,9 +787,15 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 34400000
       m_LastClickedID: 16436
       m_ExpandedIDs: faf3ffff28f4ffff72f6ffffa2f8ffff
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 3e9effff1aa4ffff60a4ffffd2b6ffff82beffff10c0ffff92c0ffffbcc0ffffa6c2ffff6afbffff
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
       m_SelectedIDs: 
       m_LastClickedID: 0
@@ -721,15 +846,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 855.2
     y: 73.6
     width: 345
     height: 395
 =======
+=======
+>>>>>>> parent of 9abc240 (Added post processing)
     x: 505.33334
     y: 72.66667
     width: 1535
     height: 776
+<<<<<<< HEAD
+>>>>>>> parent of 9abc240 (Added post processing)
+=======
 >>>>>>> parent of 9abc240 (Added post processing)
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -795,9 +926,15 @@ MonoBehaviour:
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 6.3864594
     speed: 2
     m_Value: 6.3864594
+=======
+    m_Target: 13.856503
+    speed: 2
+    m_Value: 13.856503
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
     m_Target: 13.856503
     speed: 2
@@ -849,15 +986,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 295.2
     y: 73.6
     width: 558
     height: 395
 =======
+=======
+>>>>>>> parent of 9abc240 (Added post processing)
     x: 505.33334
     y: 72.66667
     width: 1535
     height: 776
+<<<<<<< HEAD
+>>>>>>> parent of 9abc240 (Added post processing)
+=======
 >>>>>>> parent of 9abc240 (Added post processing)
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
@@ -869,7 +1012,11 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 697.5, y: 392}
+=======
+  m_TargetSize: {x: 2302.5, y: 1132.5}
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
   m_TargetSize: {x: 2302.5, y: 1132.5}
 >>>>>>> parent of 9abc240 (Added post processing)
@@ -888,15 +1035,21 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -279
     m_HBaseRangeMax: 279
     m_VBaseRangeMin: -156.8
     m_VBaseRangeMax: 156.8
 =======
+=======
+>>>>>>> parent of 9abc240 (Added post processing)
     m_HBaseRangeMin: -767.5
     m_HBaseRangeMax: 767.5
     m_VBaseRangeMin: -377.5
     m_VBaseRangeMax: 377.5
+<<<<<<< HEAD
+>>>>>>> parent of 9abc240 (Added post processing)
+=======
 >>>>>>> parent of 9abc240 (Added post processing)
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
@@ -916,10 +1069,17 @@ MonoBehaviour:
       x: 0
       y: 21
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 558
       height: 374
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 279, y: 187}
+=======
+      width: 1535
+      height: 755
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 767.5, y: 377.5}
+>>>>>>> parent of 9abc240 (Added post processing)
 =======
       width: 1535
       height: 755
@@ -933,6 +1093,7 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -279
       y: -187
       width: 558
@@ -941,6 +1102,8 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 697.5, y: 493.75}
 =======
+=======
+>>>>>>> parent of 9abc240 (Added post processing)
       x: -767.5
       y: -377.5
       width: 1535
@@ -948,6 +1111,9 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 2302.5, y: 1164}
+<<<<<<< HEAD
+>>>>>>> parent of 9abc240 (Added post processing)
+=======
 >>>>>>> parent of 9abc240 (Added post processing)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
